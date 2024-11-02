@@ -198,3 +198,17 @@ plugins:
 
 webmaster_verifications:
   google: QULqxl9mbPCaSWd7zX5n0sy9S8dT9F0Y8zPmUffIZbY
+
+comments:
+  provider: giscus
+
+giscus:
+  repo: "RedpingDev/RedpingDev.github.io"
+  repo_id: "R_kgDONJVX7Q"
+  category: "Show and tell"
+  category_id: "DIC_kwDONJVX7c4Cj6pm"
+  mapping: "pathname"
+  strict: 0
+  input_position: "bottom"
+  lang: "ko"
+  reactions_enabled: 1
