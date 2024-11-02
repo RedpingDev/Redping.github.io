@@ -3,7 +3,7 @@ title: "Launching Redping's GitHub Sponsors!"
 subtitle: "A New Journey: Growing Together Through Support"
 author: "Redping"
 date: 2024-11-02 18:00:00 +0900
-categories: [Indie Game, Git Sponsor]
+categories: [Indie Game, Git Sponsor-en]
 tags: [indiegame, devlog, pixelart, support, growth]
 lang: en
 ---
