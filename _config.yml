@@ -3,7 +3,7 @@
 theme: jekyll-theme-chirpy
 lang: en
 title: RedpingDev Blog # the main title
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Indie game Dev Blog # it will display as the subtitle
 description: 'Redping Dev Blog'
 baseurl: ""
 url: https://RedpingDev.github.io
