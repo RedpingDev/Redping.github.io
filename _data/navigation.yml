@@ -1,0 +1,11 @@
+# _data/navigation.yml
+ko:
+  - title: "홈"
+    url: "/ko/"
+  - title: "블로그"
+    url: "/ko/blog/"
+en:
+  - title: "Home"
+    url: "/en/"
+  - title: "Blog"
+    url: "/en/blog/"
