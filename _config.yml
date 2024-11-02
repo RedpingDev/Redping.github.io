@@ -231,7 +231,7 @@ jekyll-archives:
 plugins:
   - jekyll-seo-tag
   # - jekyll-polyglot
-#   - jekyll-sitemap
+  - jekyll-sitemap
 
 # languages: ["en", "ko"]
 # default_lang: 'ko'
