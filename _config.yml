@@ -8,6 +8,7 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
+
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
@@ -206,14 +207,17 @@ compress_html:
     envs: [development]
 
 exclude:
-  - "*.gem"
-  - "*.gemspec"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
   - docs
   - tools
   - README.md
   - LICENSE
-  - "*.config.js"
-  - package*.json
+  - rollup.config.js
+  - package.json
+
 
 jekyll-archives:
   enabled: [categories, tags]
@@ -223,3 +227,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-seo-tag
+  # - jekyll-polyglot
+#   - jekyll-sitemap
+
+# languages: ["en", "ko"]
+# default_lang: 'ko'
+# exclude_from_localization: ["assets", "css", "images", "javascript"]
+# parallel_localization: false
