@@ -35,4 +35,6 @@ Github Sponsors를 통해 후원해 주시는 모든 분들께는 개발 업데�
 게임을 사랑하는 마음으로, 여러분과 함께 특별한 세계를 완성하고 싶습니다. 지금 Github Sponsors를 통해 함께해 주세요. 그럼 게임 속에서 만날 수 있길 바라며, 앞으로도 많은 관심 부탁드립니다! 🙌
 
 
-혹시 Sponsors 링크가 이동 안되시는 분들을 위한 [URL](https://github.com/sponsors/RedpingDev)입니다.
+혹시 Sponsors 링크가 이동 안되시는 분들을 위한 [https://github.com/sponsors/RedpingDev](https://github.com/sponsors/RedpingDev)입니다.
+
+저에 대해서 더 알고 싶으시다면! 🕵️ [About Redping](/posts/ko/about)

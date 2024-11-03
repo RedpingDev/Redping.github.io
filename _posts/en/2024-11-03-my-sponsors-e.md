@@ -34,4 +34,6 @@ Your sponsorship is more than just financial support; it's a cherished partnersh
 
 With a love for gaming, I want to create something extraordinary with you. Join me through GitHub Sponsors, and I look forward to seeing you in the game. Thank you in advance for your interest! 🙌
 
-If the Sponsors link doesn’t work, here is the [URL](https://github.com/sponsors/RedpingDev) for direct access.
+If the Sponsors link doesn’t work, here is the 🎮 [https://github.com/sponsors/RedpingDev](https://github.com/sponsors/RedpingDev) for direct access.
+
+If you know about me! 🕵️ [About Redping](/about)
