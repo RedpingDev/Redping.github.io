@@ -1,5 +1,5 @@
 ---
-title: "Beer Game Dev Series #1"  
+title: "🍻 Beer Game Dev Series #1"  
 subtitle: "An Indie Game Developer Creating Games with a Beer in Hand"  
 author: "Redping"  
 date: 2024-11-04 12:10:00 +0900  
@@ -41,4 +41,4 @@ For more dev tips and stories, feel free to check out my social channels!
 
 🌲 [Link tree](https://linktr.ee/RedpingGames)
 
-And if you’re curious to know more about me, check out 🕵️ [About Redping](/posts/en/about)
+And if you’re curious to know more about me, check out 🕵️ [About Redping](/about)
