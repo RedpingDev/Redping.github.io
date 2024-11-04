@@ -43,10 +43,10 @@ Through this experience, I learned that even minor path references can make a bi
 I hope this post helps other developers who might be struggling with NodePath! Let’s all keep pushing forward without setbacks! 😊
 
 If you found this post helpful, a small coffee would mean a lot and help keep me going. With your support, I can share more tips and troubleshooting stories!  
-☕ [[Github Sponsor Link](https://github.com/sponsors/RedpingDev)]
+☕ [Github Sponsor Link](https://github.com/sponsors/RedpingDev)
 
 If you'd like to see more stories or follow my development journey, check out my Linktree for social media channels. I appreciate your interest!  
-🌲 [[my Link tree](https://linktr.ee/RedpingGames)]
+🌲 [my Link tree](https://linktr.ee/RedpingGames)
 
 Curious about my background or this project’s story? 🕵️ Check out my [About Me Post](/about) for details. Your interest and support mean the world as we bring this game to life together.
 

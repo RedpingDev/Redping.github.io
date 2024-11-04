@@ -35,10 +35,10 @@ Enjoying a lunchtime beer in moderation just makes life happier!
 
 Here’s to your own journey with a beer in hand! If this small beer resonates with you, consider a 🍻 **small beer support** to keep the developer going. The support link is below:
 
-🍻 [[Beer Support Link](https://github.com/sponsors/RedpingDev)]
+🍻 [Beer Support Link](https://github.com/sponsors/RedpingDev)
 
 For more dev tips and stories, feel free to check out my social channels!
 
-🌲 [[Link tree](https://linktr.ee/RedpingGames)]
+🌲 [Link tree](https://linktr.ee/RedpingGames)
 
 And if you’re curious to know more about me, check out 🕵️ [About Redping](/posts/en/about)

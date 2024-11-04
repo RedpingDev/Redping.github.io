@@ -84,13 +84,13 @@ A sound producer creates sound effects, background music, and ambient sounds tha
 If you’ve been following our journey and would like to support the game’s continued growth, feel free to check out my link. 
 
 
-☕[[Github sponsor link](https://github.com/sponsors/RedpingDev)]
+☕[Github sponsor link](https://github.com/sponsors/RedpingDev)
 
 
 Every contribution helps us bring this vision to life, one step closer to launch! For more updates, be sure to follow along on my Link tree for social media channels.
 
 
-🌲[[my Link tree](https://linktr.ee/RedpingGames)]
+🌲[my Link tree](https://linktr.ee/RedpingGames)
 
 
 Curious to learn more about me and this project’s background? Head over to my \[About Me post] for the full story. Thank you for your interest and support—it truly means the world as we bring this game to life, together.

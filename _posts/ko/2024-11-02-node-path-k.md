@@ -54,11 +54,11 @@ var target_node = get_node(my_node_path)
 이 글이 NodePath 때문에 고민하는 다른 개발자분들께 작은 도움이 되길 바라며, 또 삽질하지 않도록 같이 화이팅입니다! 😊
 
 혹시 이 글이 도움이 되었다면, 작은 커피 한 잔으로 응원해 주시면 큰 힘이 될 거예요. 덕분에 더 많은 개발 팁과 삽질 이야기로 찾아올 수 있습니다!
-☕ [[Github 후원 링크](https://github.com/sponsors/RedpingDev)]
+☕ [Github 후원 링크](https://github.com/sponsors/RedpingDev)
 
 
 또 다른 이야기나 개발 여정을 보고 싶다면, 아래 제 링크 트리에서 다양한 소셜 채널도 확인해 주세요. 재미있게 봐 주시면 감사하겠습니다! 
-🌲[[my Link tree](https://linktr.ee/RedpingGames)]
+🌲[my Link tree](https://linktr.ee/RedpingGames)
 
 
 저와 이 프로젝트의 배경 이야기가 궁금하시다면, 🕵️ [About Me 포스트](/posts/ko/about)에서 자세한 내용을 확인하세요. 여러분의 관심과 응원은 이 게임을 함께 완성해 나가는 데 큰 힘이 됩니다.
