@@ -4,9 +4,9 @@ theme: jekyll-theme-chirpy
 lang: en
 title: RedpingDev Blog # the main title
 tagline: Indie game Dev Blog # it will display as the subtitle
-description: 'Redping Dev Blog'
+description: 'Beer man Redping Indie game Dev Blog'
 baseurl: ""
-url: https://RedpingDev.github.io
+url: "https://redpingdev.github.io"
 # The base URL of your site
 
 github:
