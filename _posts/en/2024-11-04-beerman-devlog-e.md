@@ -6,7 +6,7 @@ date: 2024-11-04 12:10:00 +0900
 categories: [Indie Game, DevLog-en]  
 tags: [Indie Game, DevLog, Beer, Game Development]  
 lang: en  
-description: "🍻 Bear is best! for Indie game developer!"  
+description: "🍻 Beer is best! for Indie game developer!"  
 ---
 
 ## 🍻 The Charm of a Lunchtime Beer! 🍻
